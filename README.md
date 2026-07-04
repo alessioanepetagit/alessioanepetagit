@@ -5,7 +5,7 @@
 *   **Phone:** +39 3483786712 
 *   **Personal Email:** alessioanepeta2004@gmail.com
 *   **University Email:** a.anepeta@studenti.unina.it
-*   **GitHub:** [github.com/alessioanepetagit
+*   **GitHub:** github.com/alessioanepetagit
 *   **LinkedIn:** https://www.linkedin.com/in/alessio-anepeta-5ba720256/
 *   **Role:** Backend & Cloud Developer | Student Representative
 
