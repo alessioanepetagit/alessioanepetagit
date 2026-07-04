@@ -26,7 +26,7 @@ Currently, alongside my studies, I am actively involved as a student representat
 **University of Naples Federico II - Bachelor's Degree in Computer Science**
 * Enrollment: 2023 - Present
 
-**Scientific High School Diploma**
+**Liceo Scientifico Statale "Emilio Segrè" - Scientific High School Diploma**
 * Enrollment: 2018 - 2023
 * Grade: 100/100 cum Laude
 
